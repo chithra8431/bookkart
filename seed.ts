@@ -44,6 +44,6 @@ const getrating = (): Prisma.ratingsCreateInput[] => [
         user_id: "4567",     
         rating_value:"4.3", 
         book_name:"The Wager: A Tale of Shipwreck, Mutiny and Murder",    
-        book_id: "0000"      
+        book_id: "0005"      
     },
   ];
